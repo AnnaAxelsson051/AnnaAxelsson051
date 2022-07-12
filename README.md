@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Anna. I'm a former lawyer who discovered my passion for software-development. Currently coding mostly in Java, JavaScript, HTML and CSS. 
