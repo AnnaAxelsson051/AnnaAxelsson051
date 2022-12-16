@@ -1,6 +1,6 @@
 Discovered my passion for software-development in 2021. Coding mostly in Java, C#, JavaScript, HTML and CSS.
 
-<h4>Some Tools I Have Used and Learned:</h4>
+<h4>Some Tools I Have Used and Learned</h4>
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="php" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="php" width="30" height="30"/> 
@@ -16,5 +16,8 @@ Discovered my passion for software-development in 2021. Coding mostly in Java, C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="php" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="php" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="php" width="30" height="30"/>  
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="php" width="30" height="30"-->/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
 </p>
+![Screenshot 2022-12-16 at 21 31 28](https://user-images.githubusercontent.com/103879144/208184232-c4382f79-14ae-4456-b9d6-9df0362a2d09.png)
+
