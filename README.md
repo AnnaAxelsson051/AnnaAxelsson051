@@ -1,8 +1,8 @@
-<h2>Hi ✨ </h2>
+<h2>👋 Hi</h2>
 
-I discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+😊 I discovered my passion for software development in 2021, and once I did there was no going back. Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
-<h3>Some Tools I Have Used and Learned</h3>
+<h3>✨ Some Tools I Have Used and Learned</h3>
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
@@ -23,12 +23,22 @@ I discovered my passion for software development in 2021. Decided to pursue a ca
   <p/>
   
   
-  <!-- 👋-->
+  <!-- 👋 😊 💜-->
   
 <h3>Education and Certificates</h3>
-<p>Fullstack .NET Chas Academy - ongoing<p/>
-<p>Javadeveloper It-högskolan - ongoing<p/>
+<p>Fullstack .NET - Chas Academy (ongoing)<p/>
+<p>Javadeveloper - It-högskolan (ongoing)<p/>
+<p>Degree of Master of Laws, LL.M. - Stockholm University<p/>
 
 [HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249261/HTML.and.CSS.certificate.pdf)
+
+<h3>💜 Enjoys</h3>
+<p>Coding<p/>
+<p>Neuroscience<p/>
+<p>Psychology<p/>
+<p>Art<p/>
+<p>Humour<p/>
+
+
 
 
