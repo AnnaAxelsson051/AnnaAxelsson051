@@ -20,8 +20,10 @@ Discovered my passion for software-development in 2021. Coding mostly in Java, C
   <p/>
   
 <h3>Education and certificates</h3>
+<ul>
 <li>Fullstack .NET Chas Academy - ongoing<li/>
 <li>Javadeveloper It-högskolan - ongoing<li/>
+  </ul>
 
 [HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249261/HTML.and.CSS.certificate.pdf)
 
