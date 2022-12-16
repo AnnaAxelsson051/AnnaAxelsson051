@@ -1,6 +1,4 @@
-<h2>Hi,</h2>
-
-I discovered my passion for software development in 2021 and decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+Lawyer who discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
 <h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
