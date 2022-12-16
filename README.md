@@ -1,3 +1,5 @@
+<h1>About me</h1>
+
 Discovered my passion for software-development in 2021. Coding mostly in Java, C#, JavaScript, HTML and CSS.
 
 <h3>Some Tools I Have Used and Learned</h3>
@@ -20,10 +22,8 @@ Discovered my passion for software-development in 2021. Coding mostly in Java, C
   <p/>
   
 <h3>Education and certificates</h3>
-<ul>
-<li>Fullstack .NET Chas Academy - ongoing<li/>
-<li>Javadeveloper It-högskolan - ongoing<li/>
-  </ul>
+<p>Fullstack .NET Chas Academy - ongoing<p/>
+<p>Javadeveloper It-högskolan - ongoing<p/>
 
 [HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249261/HTML.and.CSS.certificate.pdf)
 
