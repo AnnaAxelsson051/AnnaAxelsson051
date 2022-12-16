@@ -1,4 +1,4 @@
-<h2>Hi</h2>
+<h2>Hi 👋</h2>
 
 Discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
@@ -26,13 +26,10 @@ Discovered my passion for software development in 2021. Decided to pursue a care
   <!-- 👋 😊 💜 ✨ -->
   
 <h3>Education and Certificates</h3>
-<!--<p>Fullstack .NET - Chas Academy (ongoing)<p/>
-<p>Javadeveloper - It-högskolan (ongoing)<p/>
-<p>Degree of Master of Laws, LL.M. - Stockholm University<p/>-->
-
-<p>Fullstack .NET @ Chas Academy (ongoing) || Javadeveloper @ It-högskolan (ongoing) || Degree of Master of Laws, LL.M. @ Stockholm University<p/>
-
-[HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249261/HTML.and.CSS.certificate.pdf)
+<p>{} Fullstack .NET - Chas Academy (ongoing)<p/>
+<p>{} Javadeveloper - It-högskolan (ongoing)<p/>
+<p>{} [HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249261/HTML.and.CSS.certificate.pdf)<p/>
+<p>§ Degree of Master of Laws, LL.M. - Stockholm University<p/>-->
 
 <p>Enjoys - Coding, Neuroscience, Psychology, Art, Humour<p/>
 
