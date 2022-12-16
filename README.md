@@ -1,6 +1,6 @@
-<h2>Hi 👋</h2>
+<h2>Hi,</h2>
 
-Discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+I discovered my passion for software development in 2021, and Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
 <h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
@@ -33,4 +33,4 @@ Discovered my passion for software development in 2021. Decided to pursue a care
 
 <p>§ Degree of Master of Laws, LL.M. - Stockholm University<p/>
 
-<p>Enjoys - Coding, Neuroscience, Psychology, Art, Humour<p/>
+<p>💜 Enjoys - Coding, Neuroscience, Psychology, Art, Humour<p/>
