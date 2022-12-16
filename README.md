@@ -28,7 +28,7 @@ Discovered my passion for software development in 2021. Decided to pursue a care
 <h3>Education and Certificates</h3>
 <p>{} Fullstack .NET - Chas Academy (ongoing)<p/>
 <p>{} Javadeveloper - It-högskolan (ongoing)<p/>
-[HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249834/HTML.and.CSS.certificate.pdf)
+
 <p>§ Degree of Master of Laws, LL.M. - Stockholm University<p/>
 
 <p>Enjoys - Coding, Neuroscience, Psychology, Art, Humour<p/>
@@ -37,4 +37,5 @@ Discovered my passion for software development in 2021. Decided to pursue a care
 
 
 
+[HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249839/HTML.and.CSS.certificate.pdf)
 
