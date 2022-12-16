@@ -1,6 +1,6 @@
 Discovered my passion for software-development in 2021. Coding mostly in Java, C#, JavaScript, HTML and CSS.
 
-<h4>Some Tools I Have Used and Learned</h4>
+<h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="php" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="php" width="30" height="30"/> 
@@ -19,11 +19,9 @@ Discovered my passion for software-development in 2021. Coding mostly in Java, C
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="php" width="30" height="30"/>-->
   <p/>
   
-<h4>Education and certificates</h4>
-<ul>
+<h3>Education and certificates</h3>
 <li>Fullstack .NET Chas Academy - ongoing<li/>
 <li>Javadeveloper It-högskolan - ongoing<li/>
-  </ul>
 
 [HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249261/HTML.and.CSS.certificate.pdf)
 
