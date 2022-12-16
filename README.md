@@ -19,7 +19,8 @@ Discovered my passion for software-development in 2021. Coding mostly in Java, C
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="php" width="30" height="30"/>-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
 </p>
-<p align="left"> <img src="![Screenshot 2022-12-16 at 21 31 28](https://user-images.githubusercontent.com/103879144/208184232-c4382f79-14ae-4456-b9d6-9df0362a2d09.png)" alt="bash" />
+<p align="left"> <img src="" alt="bash" />
 
   </p>
+  ![Screenshot 2022-12-16 at 21 31 28](https://user-images.githubusercontent.com/103879144/208184232-c4382f79-14ae-4456-b9d6-9df0362a2d09.png)
 
