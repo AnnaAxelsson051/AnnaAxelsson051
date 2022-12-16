@@ -1,4 +1,4 @@
-<h2>Hi 👋 </h2>
+<h2>Hi ✨ </h2>
 
 I discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
@@ -23,9 +23,9 @@ I discovered my passion for software development in 2021. Decided to pursue a ca
   <p/>
   
   
+  <!-- 👋-->
   
-  
-<h3>Education and certificates</h3>
+<h3>Education and Certificates</h3>
 <p>Fullstack .NET Chas Academy - ongoing<p/>
 <p>Javadeveloper It-högskolan - ongoing<p/>
 
