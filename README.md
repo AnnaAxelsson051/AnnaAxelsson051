@@ -23,7 +23,7 @@
   
   <!-- 👋 😊 💜 ✨ 🤓-->
   
-<h3>Certificates and Online Courses I have attended</h3>
+<h3>Certificates and Online Courses I Have Attended</h3>
 
 {} [Certificate - HTML and CSS.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10251945/Certificate.-.HTML.and.CSS.pdf)
 
