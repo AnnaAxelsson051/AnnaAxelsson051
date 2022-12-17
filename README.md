@@ -1,6 +1,6 @@
 Lawyer who discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
-<h3>Some Tools I Have Used, Learned and Love</h3>
+<h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
@@ -17,7 +17,7 @@ Lawyer who discovered my passion for software development in 2021. Decided to pu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>-->
   <p/>
   
   
