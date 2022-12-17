@@ -1,4 +1,4 @@
-Discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022. Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+🤓 Lawyer who discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 by attending the educations: Full-Stack Developer .NET @ Chas Academy and Java Developer @ It-högskolan. Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
 <h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
@@ -23,9 +23,7 @@ Discovered my passion for software development in 2021. Decided to pursue a care
   
   <!-- 👋 😊 💜 ✨ 🤓-->
   
-<h3>Education and Certificates</h3>
-<p>{} Fullstack .NET - Chas Academy (ongoing)<p/>
-<p>{} Javadeveloper - It-högskolan (ongoing)<p/>
+<h3>Certificates and Online Courses I have attended</h3>
 
 {} [Certificate - HTML and CSS.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10251945/Certificate.-.HTML.and.CSS.pdf)
 
