@@ -1,6 +1,6 @@
-Lawyer who discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 - Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+Discovered my passion for software development in 2021. Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
-<h3>Some Tools I Have Used, Learned and Love</h3>
+<h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
@@ -27,7 +27,7 @@ Lawyer who discovered my passion for software development in 2021. Decided to pu
 <p>{} Fullstack .NET - Chas Academy (ongoing)<p/>
 <p>{} Javadeveloper - It-högskolan (ongoing)<p/>
 
-{} [Certificate || Build Responsive Websites with HTML and CSS - Udemy.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10250368/Certificate.Build.Responsive.Websites.with.HTML.and.CSS.-.Udemy.pdf)
+{} [Certificate - HTML and CSS.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10251945/Certificate.-.HTML.and.CSS.pdf)
 
 <p>{} Java Programming Masterclass - Udemy<p/>
 <p>{} Complete C# Masterclass - Udemy<p/>
