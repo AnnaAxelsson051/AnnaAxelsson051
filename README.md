@@ -29,6 +29,10 @@ Lawyer who discovered my passion for software development in 2021. Decided to pu
 
 [HTML and CSS certificate.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10249839/HTML.and.CSS.certificate.pdf)
 
+<p>{} Java Programming Masterclass - Udemy<p/>
+<p>{} Complete C# Masterclass - Udemy<p/>
+<p>{} Advanced CSS and Sass - Udemy<p/>
+<p>{} The complete JavaScript Course - Udemy<p/>
 <p>§ Degree of Master of Laws, LL.M. - Stockholm University<p/>
 
 <p>💜 Enjoys - Coding, Neuroscience, Psychology, Art, Humour<p/>
