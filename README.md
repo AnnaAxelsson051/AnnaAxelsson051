@@ -25,7 +25,7 @@
   
 <h3>Certificates and Online Courses I Have Attended</h3>
 
-{} [Certificate - HTML and CSS.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10251945/Certificate.-.HTML.and.CSS.pdf)
+{} [Certificate || HTML and CSS - Udemy.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10252437/Certificate.HTML.and.CSS.-.Udemy.pdf)
 
 <p>{} Java Programming Masterclass - Udemy<p/>
 <p>{} Complete C# Masterclass - Udemy<p/>
