@@ -21,7 +21,7 @@ Lawyer who discovered my passion for software development in 2021. Coding mostly
   <p/>
   
   
-  <!-- 👋 😊 💜 ✨ -->
+  <!-- 👋 😊 💜 ✨ 🤓-->
   
 <h3>Education and Certificates</h3>
 <p>{} Fullstack .NET - Chas Academy (ongoing)<p/>
@@ -38,6 +38,5 @@ Lawyer who discovered my passion for software development in 2021. Coding mostly
 <h3>💜 Enjoys</h3>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/>
 
-[![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaAxelsson051)](https://github.com/AnnaAxelsson051/github-readme-stats)
 
 
