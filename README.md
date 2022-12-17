@@ -34,5 +34,6 @@ Lawyer who discovered my passion for software development in 2021. Decided to pu
 <p>{} Advanced CSS and Sass - Udemy<p/>
 <p>{} The complete JavaScript Course - Udemy<p/>
 <p>§ Degree of Master of Laws, LL.M. - Stockholm University<p/>
-</br>
-<p>💜 Enjoys - Coding, Neuroscience, Psychology, Art, Humour<p/>
+
+<h3>💜 Enjoys</h3>
+<p>Coding, Neuroscience, Psychology, Art, Humour<p/>
