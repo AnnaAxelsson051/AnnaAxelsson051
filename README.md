@@ -1,4 +1,4 @@
-Discovered my passion for software development in 2021. Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+Lawyer who discovered my passion for software development in 2021. Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
 <h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
@@ -37,4 +37,7 @@ Discovered my passion for software development in 2021. Coding mostly in Java, C
 
 <h3>💜 Enjoys</h3>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/>
+
+[![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaAxelsson051)](https://github.com/AnnaAxelsson051/github-readme-stats)
+
 
