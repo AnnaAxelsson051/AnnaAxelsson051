@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
  <p/>
 
-<h3>💜 Enjoys</h3>
+<h3>Enjoys</h3>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/>
 
 
