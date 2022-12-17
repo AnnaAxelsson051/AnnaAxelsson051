@@ -1,4 +1,4 @@
-🤓 Lawyer who discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 by attending the educations: Full-Stack Developer .NET @ Chas Academy and Java Developer @ It-högskolan. Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+🤓 Lawyer who discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack Developer .NET @ Chas Academy and Java Developer @ It-högskolan. Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
 <h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
@@ -31,7 +31,6 @@
 <p>{} Complete C# Masterclass - Udemy<p/>
 <p>{} Advanced CSS and Sass - Udemy<p/>
 <p>{} The complete JavaScript Course - Udemy<p/>
-<p>§ Degree of Master of Laws, LL.M. - Stockholm University<p/>
 
 <h3>💜 Enjoys</h3>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/>
