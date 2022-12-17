@@ -27,7 +27,7 @@ Lawyer who discovered my passion for software development in 2021. Decided to pu
 <p>{} Fullstack .NET - Chas Academy (ongoing)<p/>
 <p>{} Javadeveloper - It-högskolan (ongoing)<p/>
 
-[Build Responsive Websites with HTML and CSS Certificate - Udemy.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10250320/Build.Responsive.Websites.with.HTML.and.CSS.Certificate.-.Udemy.pdf)
+{} [Build Responsive Websites with HTML and CSS Certificate - Udemy.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10250320/Build.Responsive.Websites.with.HTML.and.CSS.Certificate.-.Udemy.pdf)
 
 <p>{} Java Programming Masterclass - Udemy<p/>
 <p>{} Complete C# Masterclass - Udemy<p/>
