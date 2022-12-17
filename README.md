@@ -23,7 +23,7 @@ Lawyer who discovered my passion for software development in 2021. Coding mostly
   
   <!-- 👋 😊 💜 ✨ 🤓-->
   
-<h3>Education and Certificates</h3>
+<h3>🤓 Education and Certificates</h3>
 <p>{} Fullstack .NET - Chas Academy (ongoing)<p/>
 <p>{} Javadeveloper - It-högskolan (ongoing)<p/>
 
