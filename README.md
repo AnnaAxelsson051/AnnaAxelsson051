@@ -1,3 +1,5 @@
+![Screenshot 2022-12-19 at 03 17 25](https://user-images.githubusercontent.com/103879144/208335030-557d6626-dd5c-4cc0-aba0-901249767e8d.png)
+
 🤓 Lawyer who discovered my passion for software development in 2021. Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack Developer .NET @ Chas Academy and Java Developer @ It-högskolan. Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 
 <h3>Some Tools I Have Used and Learned</h3>
