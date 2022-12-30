@@ -25,7 +25,7 @@
   
   <!-- 👋 😊 💜 ✨ 🤓-->
 
-  <h3>Online Certificates Udemy</h3>
+  <h3>My Certificates Udemy</h3>
   
 [Java Programming Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
 
