@@ -25,11 +25,11 @@
   
   <!-- 👋 😊 💜 ✨ 🤓-->
 
-  <h3>My Certificates</h3>
+  <h3>Certificates from Online Courses</h3>
   
-[Java](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
+[Java Programming Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
 
-[HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf)
+[Build Responsive Websites with HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf)
 
 
  <h3>Want to Learn</h3>
