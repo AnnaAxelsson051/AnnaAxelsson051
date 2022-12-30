@@ -24,15 +24,13 @@
   <p/>
   
   <!-- 👋 😊 💜 ✨ 🤓-->
+
+  <h3>Online Certificates Udemy</h3>
   
-<h3>Certificates and Online Courses I Have Attended</h3>
+[Java Programming Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
 
-{} [Certificate || HTML and CSS - Udemy.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10252437/Certificate.HTML.and.CSS.-.Udemy.pdf)
+[Build Responsive Websites with HTML and CSS.pdf](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf)
 
-<p>{} Java Programming Masterclass - Udemy<p/>
-<p>{} Complete C# Masterclass - Udemy<p/>
-<p>{} Advanced CSS and Sass - Udemy<p/>
-<p>{} The complete JavaScript Course - Udemy<p/>
 
  <h3>Want to Learn</h3>
   <p align="left"> 
