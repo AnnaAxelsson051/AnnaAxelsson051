@@ -1,6 +1,6 @@
 <!--![Screenshot 2022-12-19 at 03 20 27](https://user-images.githubusercontent.com/103879144/208335272-a9ece5aa-cd24-4cad-a5dd-6b455b9f1224.png) -->
 
-> 🤓 Family rights lawyer who discovered my passion for software development in 2021.<!-- Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack Developer .NET @ Chas Academy and Java Developer @ It-högskolan. --> Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+🤓 Lawyer who discovered my passion for software development in 2021.<!-- Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack Developer .NET @ Chas Academy and Java Developer @ It-högskolan. --> Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 </br>
 <h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
@@ -28,7 +28,7 @@
 
   <h3>Certificates from Online Courses</h3>
   
-> [Java Programming Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
+  [Java Programming Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
   [Build Responsive Websites with HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf)
 
 
