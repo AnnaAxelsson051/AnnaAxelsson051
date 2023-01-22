@@ -1,6 +1,6 @@
 <!--![Screenshot 2022-12-19 at 03 20 27](https://user-images.githubusercontent.com/103879144/208335272-a9ece5aa-cd24-4cad-a5dd-6b455b9f1224.png) -->
 
-<!--🤓 Lawyer who--> Discovered my passion for software development in 2021. <!-- Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack Developer .NET @ Chas Academy and Java Developer @ It-högskolan. --> Coding mostly in Java, C#, JavaScript, HTML and CSS. 
+🤓 Family rights lawyer who discovered my passion for software development in 2021.<!-- Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack Developer .NET @ Chas Academy and Java Developer @ It-högskolan. --> Coding mostly in Java, C#, JavaScript, HTML and CSS. 
 </br>
 <h3>Some Tools I Have Used and Learned</h3>
 <p align="left"> 
