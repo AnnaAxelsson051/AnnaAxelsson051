@@ -26,7 +26,7 @@
   
   <!-- 👋 😊 💜 ✨ 🤓 -->
 
-  <h3>Certificates</h3>
+  <h3>Certificates from Online Courses</h3>
   
   [Java Programming Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
   
