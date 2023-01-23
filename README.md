@@ -26,11 +26,11 @@ Discovered my passion for software development in 2021. <!--Decided to pursue a 
   
   <!-- 👋 😊 💜 ✨ 🤓  -->
 
-  <h3>Certificates from Online Courses</h3>
+  <h3>Certificates</h3>
   
-  [Java Programming Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
+  [Java](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
   
-  [Build Responsive Websites with HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf)
+  [HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf)
 
 
  <h3>Want to Learn</h3>
