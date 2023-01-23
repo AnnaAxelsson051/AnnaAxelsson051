@@ -24,7 +24,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="spring" width="30" height="30"/>
   <p/>
   
-  <!-- 👋 😊 💜 ✨ 🤓 -->
+  <!-- 👋 😊 💜 ✨ 🤓  -->
 
   <h3>Certificates from Online Courses</h3>
   
