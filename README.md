@@ -1,8 +1,11 @@
 <!--! [Screenshot 2022-12-19 at 03 20 27](https://user-images.githubusercontent.com/103879144/208335272-a9ece5aa-cd24-4cad-a5dd-6b455b9f1224.png) -->
 
-Discovered my passion for software development and switched careers. <!--in 2021. <!--Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack .NET Developer @ Chas Academy and Java Developer @ It-högskolan. --> Coding mostly in <!--Java, C#, JavaScript, HTML and CSS.
+Discovered my passion for software development and switched careers. <!--in 2021. <!--Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack .NET Developer @ Chas Academy and Java Developer @ It-högskolan.--> 
+Coding mostly in 
+<!--Java, C#, JavaScript, HTML and CSS.
 </br>
 <h3>Some Tools I Have Used and Learned</h3>-->
+
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
@@ -39,6 +42,7 @@ Discovered my passion for software development and switched careers. <!--in 2021
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/>
+  
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
