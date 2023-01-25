@@ -48,7 +48,7 @@ Coding mostly in
  <p/>-->
 
 <h3>Enjoys</h3>
-> <p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
+<p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
 
 
 
