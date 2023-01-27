@@ -1,6 +1,10 @@
 <!--! [Screenshot 2022-12-19 at 03 20 27](https://user-images.githubusercontent.com/103879144/208335272-a9ece5aa-cd24-4cad-a5dd-6b455b9f1224.png) -->
 
 Discovered my passion for software development and switched careers. <!--in 2021. Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack .NET Developer @ Chas Academy and Java Developer @ It-högskolan.--> 
+Attending
+Javautvecklare @ IT-Högskolan
+Fullstack .NET @ Chas Academy
+
 Coding mostly in 
 <!--Java, C#, JavaScript, HTML and CSS.
 </br>
