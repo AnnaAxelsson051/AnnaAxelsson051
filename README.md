@@ -5,7 +5,7 @@ Discovered my passion for software development and switched careers.
 
 <!--Attending educations: Java developer @ IT-Högskolan & Fullstack .NET @ Chas Academy. -->
 
-Coding mostly in:
+<h4>Coding mostly in</h4>
 <!--Java, C#, JavaScript, HTML and CSS.
 </br>
 <h3>Some Tools I Have Used and Learned</h3>-->
