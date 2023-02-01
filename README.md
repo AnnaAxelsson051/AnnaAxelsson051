@@ -39,7 +39,7 @@ Discovered my passion for software development and switched careers.
   > - [Build Responsive Websites with HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf) 
 
 
- <h3>Want to Learn</h3>
+ <h4>Want to Learn</h4>
   <p align="left"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
@@ -51,7 +51,7 @@ Discovered my passion for software development and switched careers.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
  <p/>-->
 
-<h3>Enjoys</h3>
+<h4>Enjoys</h4>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
 
 
