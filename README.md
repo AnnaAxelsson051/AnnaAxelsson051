@@ -5,7 +5,7 @@ Discovered my passion for software development and switched careers.
 
 <!--Attending educations: Java developer @ IT-Högskolan & Fullstack .NET @ Chas Academy. -->
 
-<h3>Coding mostly in</h3>
+<h4>Coding mostly in</h4>
 <!--Java, C#, JavaScript, HTML and CSS.
 </br>
 <h3>Some Tools I Have Used and Learned</h3>-->
@@ -33,7 +33,7 @@ Discovered my passion for software development and switched careers.
   
   <!-- 👋 😊 💜 ✨ 🤓 -->
 
-  <h3>Certificates</h3>
+  <h4>Certificates</h4>
   
   > - [Complete Java Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
   > - [Build Responsive Websites with HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf) 
