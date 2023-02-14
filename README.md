@@ -33,7 +33,7 @@ Java, C#, JavaScript, HTML and CSS.
   <p/>
   <h4>Publications</h4>
   
- [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
+ 📚 [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
  
   <!-- 👋 😊 💜 ✨ 🤓 -->
 
