@@ -31,7 +31,8 @@ Java, C#, JavaScript, HTML and CSS.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
   <p/>
-  
+  <h4>Publications</h4>
+ [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
   <!-- 👋 😊 💜 ✨ 🤓 -->
 
   <h4>Certificates</h4>
