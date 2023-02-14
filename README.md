@@ -33,10 +33,10 @@ Discovered my passion for software development and switched careers.
   
   <!-- 👋 😊 💜 ✨ 🤓 -->
 
-  <!--<h4>Certificates</h4>
+  <h4>Certificates</h4>
   
   > - [Complete Java Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
-  > - [Build Responsive Websites with HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf) -->
+  > - [Build Responsive Websites with HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf) 
 
 
  <h4>Want to Learn</h4>
