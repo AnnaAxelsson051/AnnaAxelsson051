@@ -32,9 +32,9 @@ Java, C#, JavaScript, HTML and CSS.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
   <p/>
  Json | Javafx | Scene builder | XML | JUnit | Mockito | Maven | YAML | Dbgate | Github API | Github Actions CI/CD | Mermaid | Agile & Scrum | It-law | Gdpr
-   <h4>Publications</h4>
+   <h4>📚 Publications</h4>
   
-  📚 [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
+   [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
  
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
@@ -42,7 +42,7 @@ Java, C#, JavaScript, HTML and CSS.
   
   [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
   
-  <h4>Currently working on<h4>
+  <h4>🤓 Currently working on<h4>
   
 > - Law website with database connectivity
 > - Portfolio website with projects and articles
@@ -72,8 +72,8 @@ Java, C#, JavaScript, HTML and CSS.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
  <p/>-->
 
- <h4>Enjoys</h4>
-<p>💜 Coding, Neuroscience, Psychology, Art, Humour<p/> 
+ <h4>💜 Enjoys</h4>
+<p> Coding, Neuroscience, Psychology, Art, Humour<p/> 
 
 
 
