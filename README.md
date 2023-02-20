@@ -38,7 +38,7 @@ Java, C#, JavaScript, HTML and CSS.
  
   <!-- 👋 😊 💜 ✨ 🤓 -->
   
-  <h4>Beautiful stuff I built</h4>
+  <h4>Cool creative stuff I've built</h4>
   
   [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
   
