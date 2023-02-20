@@ -36,7 +36,7 @@ Java, C#, JavaScript, HTML and CSS.
   
   📚 [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
  
-  <!-- 👋 😊 💜 ✨ 🤓 -->
+  <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
   <h4>Beautiful things I've built</h4>
   
