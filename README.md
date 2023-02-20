@@ -72,7 +72,7 @@ Java, C#, JavaScript, HTML and CSS.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
  <p/>-->
 
- <h4>💜 Enjoys</h4>
+ <h4>Enjoys</h4>
 <p> Coding, Neuroscience, Psychology, Art, Humour<p/> 
 
 
