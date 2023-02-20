@@ -40,9 +40,9 @@ Java, C#, JavaScript, HTML and CSS.
   
   <h4>Currently working on<h4>
   
-> - Law website with database connectivity
-> - Portfolio website with projects and articles
-> - E-commerce store with front and back end (database)
+- Law website with database connectivity
+- Portfolio website with projects and articles
+- E-commerce store with front and back end (database)
   
   <h4>Currently learning<h4> 
     
