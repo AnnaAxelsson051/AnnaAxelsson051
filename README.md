@@ -46,7 +46,7 @@ Java, C#, JavaScript, HTML and CSS.
   
 > - Law website with database connectivity
 > - Portfolio website with projects and articles
-> - Teaming up with an engineer to construct a webpage about green roofs for a research project for Einar Mattson
+> - Teaming up with an engineer to construct a webpage about green roofs for a research project
 > - E-commerce store with front and back end (database)
   
   <h4>Currently learning<h4> 
