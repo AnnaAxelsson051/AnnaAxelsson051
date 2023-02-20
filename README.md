@@ -34,13 +34,13 @@ Java, C#, JavaScript, HTML and CSS.
  Json | Javafx | Scene builder | XML | JUnit | Mockito | Maven | YAML | Dbgate | Github API | Github Actions CI/CD | Mermaid | Agile & Scrum | It-law | Gdpr
    <h4>📚 Publications</h4>
   
-   [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
+   🌐 [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
  
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
   <h4>Beautiful things I've built</h4>
   
-  [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
+  🌐 [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
   
   <h4>🤓 Currently working on<h4>
   
