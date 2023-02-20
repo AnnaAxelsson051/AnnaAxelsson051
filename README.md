@@ -39,11 +39,13 @@ Java, C#, JavaScript, HTML and CSS.
   <!-- 👋 😊 💜 ✨ 🤓 -->
   
   <h4>Currently working on<h4>
+  
 > - Law website with database connectivity
 > - Portfolio website with projects and articles
 > - E-commerce store with front and back end (database)
   
-  <h4>Currently learning<h4>  
+  <h4>Currently learning<h4> 
+    
 > - C# and databases
 > - Spring, Mockito & unit testing, Github Actions (CI/CD)
 > - How pathfinding algorithms work    
