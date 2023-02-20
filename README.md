@@ -52,7 +52,7 @@ Java, C#, JavaScript, HTML and CSS.
   <h4>Currently learning<h4> 
     
 > - C# and databases
-> - Spring, Mockito & unit testing, Github Actions (CI/CD)
+> - Java Spring, Mockito & unit testing, Github Actions (CI/CD)
 > - How pathfinding algorithms work    
   
   <!--<h4>Certificates</h4>
