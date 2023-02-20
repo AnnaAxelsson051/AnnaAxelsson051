@@ -68,7 +68,7 @@ Java, C#, JavaScript, HTML and CSS.
  <p/>-->
 
 <h4>Enjoys</h4>
-<p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
+💜 <p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
 
 
 
