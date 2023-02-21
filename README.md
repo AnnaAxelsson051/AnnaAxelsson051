@@ -34,8 +34,8 @@ Java, C#, JavaScript, HTML and CSS.
  Json | Javafx | Scene builder | XML | JUnit | Mockito | Maven | YAML | Dbgate | Github API | Github Actions CI/CD | Mermaid | Agile & Scrum | It-law | Gdpr
    <h4>📚  Publications</h4>
   
-   [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
-   [The anatomy of a browser](https://annaaxelsson051.github.io/Portfolio/http.html)  
+   > - [How tech shapes the law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
+   > - [The anatomy of a browser](https://annaaxelsson051.github.io/Portfolio/http.html)  
  
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
