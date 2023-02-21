@@ -41,8 +41,8 @@ Java, C#, JavaScript, HTML and CSS.
   
    <h4>Beautiful things I've built</h4> 
   
-  [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
-  [Portfolio Webpage](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
+ > - [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
+ > - [Portfolio Webpage](https://annaaxelsson051.github.io/Portfolio/index.html)
   
   <h4>🤓 Currently working on<h4>
   
