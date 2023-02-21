@@ -42,7 +42,7 @@ Java, C#, JavaScript, HTML and CSS.
   
   🌐 [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
   
-  <h4>🤓 Currently working on<h4>
+  <h4>Currently working on<h4>
   
 > - Law website with database connectivity
 > - Portfolio website with projects and articles
