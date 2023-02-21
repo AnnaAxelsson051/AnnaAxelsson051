@@ -45,7 +45,7 @@ Java, C#, JavaScript, HTML and CSS.
  > - [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
  > - [Portfolio Webpage](https://annaaxelsson051.github.io/Portfolio/index.html)
   
-  <h4>🤓 Currently working on<h4>
+  <h4>Currently working on<h4>
   
 > - Law website with database connectivity
 > - Portfolio website with projects and articles
