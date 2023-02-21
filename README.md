@@ -39,11 +39,11 @@ Java, C#, JavaScript, HTML and CSS.
  
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
-   <h4>🌐 Beautiful things I've built</h4> 
+   <h4>Beautiful things I've built</h4> 
   
   [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
   
-  <h4>Currently working on<h4>
+  <h4>🤓 Currently working on<h4>
   
 > - Law website with database connectivity
 > - Portfolio website with projects and articles
