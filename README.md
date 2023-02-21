@@ -36,7 +36,7 @@ Java, C#, JavaScript, HTML and CSS.
   
    > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
    > - [The Anatomy of a Browser](https://annaaxelsson051.github.io/Portfolio/http.html)  
-   > - [Increasing usage of electronic signatures and its effect on excersise of authority](https://annaaxelsson051.github.io/Portfolio/esignatur.html) 
+   <!--> - [Increasing usage of electronic signatures and its effect on excersise of authority](https://annaaxelsson051.github.io/Portfolio/esignatur.html) -->
  
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
@@ -50,7 +50,7 @@ Java, C#, JavaScript, HTML and CSS.
 > - Law website with database connectivity
 > - Portfolio website with projects and articles
 > - Teaming up with an engineer to construct a webpage about green roofs for a research project
-> - E-commerce store with front and back end (database)
+> - E-commerce store with complete front and back end, log in, payments
   
   <h4>Currently learning<h4> 
     
