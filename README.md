@@ -48,15 +48,14 @@ Java, C#, JavaScript, HTML and CSS.
   <h4>🤓 Currently working on<h4>
   
 > - Law website with database connectivity
-> - E-commerce store with complete front and back end, log in, payments
+> - E-commerce store with complete front and back end, database, log in, payments
 > - Teaming up with an engineer to construct a webpage about green roofs for a research project
-> - Portfolio website with projects and articles
+> - Pathfinding algorithm visualizer
   
   <h4>Currently learning<h4> 
     
-> - C# and databases, Agile and Scrum
-> - Java Spring, Maven, Mockito & unit testing, Github Actions (CI/CD)
-> - How pathfinding algorithms work    
+> - C#, databases, Agile and Scrum
+> - Java Spring, Maven, Mockito & unit testing, YAML, Github Actions (CI/CD)    
   
   <!--<h4>Certificates</h4>
   
