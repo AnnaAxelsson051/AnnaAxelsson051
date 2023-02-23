@@ -45,17 +45,17 @@ Java, C#, JavaScript, HTML and CSS.
  > - [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
  > - [Portfolio Webpage](https://annaaxelsson051.github.io/Portfolio/index.html)
   
-  <h4>Currently working on<h4>
+  <h4>🤓 Currently working on<h4>
   
 > - Law website with database connectivity
-> - Portfolio website with projects and articles
-> - Teaming up with an engineer to construct a webpage about green roofs for a research project
 > - E-commerce store with complete front and back end, log in, payments
+> - Teaming up with an engineer to construct a webpage about green roofs for a research project
+> - Portfolio website with projects and articles
   
   <h4>Currently learning<h4> 
     
-> - C# and databases
-> - Java Spring, Mockito & unit testing, Github Actions (CI/CD)
+> - C# and databases, Agile and Scrum
+> - Java Spring, Maven, Mockito & unit testing, Github Actions (CI/CD)
 > - How pathfinding algorithms work    
   
   <!--<h4>Certificates</h4>
