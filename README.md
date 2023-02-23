@@ -49,7 +49,7 @@ Java, C#, JavaScript, HTML and CSS.
   
 > - Law website with database connectivity
 > - E-commerce store with complete front and back end, database, log in, payments
-> - Teaming up with an engineer to construct a webpage about green roofs for a research project
+> - Teaming up with a an engineer to cinstruct a webpage about green roofs for a research project
 > - Pathfinding algorithm visualizer
   
   <h4>Currently learning<h4> 
