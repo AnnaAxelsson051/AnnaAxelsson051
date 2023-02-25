@@ -47,9 +47,9 @@ Java, C#, JavaScript, HTML and CSS.
   
   <h4>🤓 Currently working on<h4>
   
-> - Law website with database connectivity
-> - E-commerce store with Java Spring Boot and Angular complete front and back end, database, log in and payments
-> - Teaming up with a an engineer to construct a webpage about green roofs for a research project
+> - Informative Law Website with database connectivity
+> - E-commerce Store with Java Spring Boot and Angular complete front and back end, database, log in and payments
+> - Teaming up with a an engineer to construct a webpage about Green Roofs for a research project
 > - Pathfinding algorithm visualizer
   
   <h4>Currently learning<h4> 
