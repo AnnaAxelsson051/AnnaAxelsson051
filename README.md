@@ -57,6 +57,7 @@ Java, C#, JavaScript, HTML and CSS.
     
 > - C#, databases, Agile and Scrum
 > - Java Spring, Maven, Mockito & unit testing, YAML, Github Actions (CI/CD)    
+> - Reading: *Clean Code* - Robert C. Martin    
   
   <!--<h4>Certificates</h4>
   
