@@ -36,7 +36,7 @@ Java, C#, JavaScript, HTML and CSS.
    <h4>📚  Publications</h4>
   
    > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
-   > - [The Anatomy of a Browser](https://annaaxelsson051.github.io/Portfolio/http.html)  
+   > - [Various Articles](https://annaaxelsson051.github.io/Portfolio/articles.html)  
    <!-- > - [Increasing usage of electronic signatures and its effect on excersise of authority](https://annaaxelsson051.github.io/Portfolio/esignatur.html) -->
  
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
