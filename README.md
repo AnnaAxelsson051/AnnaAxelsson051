@@ -79,6 +79,8 @@ Java, C#, JavaScript, HTML and CSS.
 
  <h4>Enjoys</h4>
 <p> Coding, Neuroscience, Psychology, Art, Humour<p/> 
+    
+    ![Snake animation](https://github.com/AnnaAxelsson051/AnnaAxelsson051/blob/output/github-contribution-grid-snake.svg)
 
 
 
