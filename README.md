@@ -1,16 +1,9 @@
-<!--! [Screenshot 2022-12-19 at 03 20 27](https://user-images.githubusercontent.com/103879144/208335272-a9ece5aa-cd24-4cad-a5dd-6b455b9f1224.png) -->
+
 
 ✨ Discovered my passion for software development and switched careers. 
 Studying: Java developer @ IT-Högskolan and .NET Full stack developer @ Chas Academy.
-<!--in 2021. Decided to pursue a career in tech in 2022 by simultaneously attending the educations: Full-Stack .NET Developer @ Chas Academy and Java Developer @ It-högskolan. -->
-
-<!--Attending educations: Java developer @ IT-Högskolan & Fullstack .NET @ Chas Academy. -->
 
 <h4>Technical skills</h4>
-<!--<h4>Coding mostly in</h4>
-Java, C#, JavaScript, HTML and CSS.
-</br>
-<h3>Some Tools I Have Used and Learned</h3>-->
 
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
@@ -37,7 +30,6 @@ Java, C#, JavaScript, HTML and CSS.
   
    > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
    > - [Various Articles](https://annaaxelsson051.github.io/Portfolio/articles.html)  
-   <!-- > - [Increasing usage of electronic signatures and its effect on excersise of authority](https://annaaxelsson051.github.io/Portfolio/esignatur.html) -->
  
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
@@ -59,28 +51,41 @@ Java, C#, JavaScript, HTML and CSS.
 > - C#, databases, Agile and Scrum
 > - Java Spring, Maven, Mockito & unit testing, YAML, Github Actions (CI/CD)    
 > - Reading: *Clean Code* - Robert C. Martin    
-  
-  <!--<h4>Certificates</h4>
-  
-  > - [Complete Java Masterclass](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326487/Java.Programming.Masterclass.pdf)
-  > - [Build Responsive Websites with HTML and CSS](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10326489/Build.Responsive.Websites.with.HTML.and.CSS.pdf) -->
-
-
- <!--<h4>Want to Learn</h4>
-  <p align="left"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/>-->
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
- <p/>-->
 
  <h4>Enjoys</h4>
 <p> Coding, Neuroscience, Psychology, Art, Humour<p/> 
     
-    ![Snake animation](https://github.com/AnnaAxelsson051/AnnaAxelsson051/blob/output/github-contribution-grid-snake.svg)
+    
+    
+    <!--![Snake animation](https://github.com/AnnaAxelsson051/AnnaAxelsson051/blob/output/github-contribution-grid-snake.svg)
+
+Actions - create workflows - main.yaml - View runs - Run workflow (graph will update every 12 hours) 
+
+main.yaml:
+
+name: Generate Datas
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+
+        with:
+          github_user_name: AnnaAxelsson051
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}-->
 
 
 
