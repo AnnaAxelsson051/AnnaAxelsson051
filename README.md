@@ -37,13 +37,14 @@ Studying: Java developer @ IT-Högskolan and .NET Full stack developer @ Chas Ac
   
  > - [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
  > - [Portfolio Webpage](https://annaaxelsson051.github.io/Portfolio/index.html)
+ > - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/)
   
   <h4>🤓 Currently working on<h4>
   
 > - Informative Law Website with database connectivity
 > - E-commerce Store with Java Spring Boot and Angular complete front and back end, database, log in and payments
 > - Teaming up with a an engineer to construct a webpage about Green Roofs for a research project
-> - Various JavaScript games  
+> - Various games  
 > - Pathfinding algorithm visualizer
   
   <h4>Currently learning<h4> 
