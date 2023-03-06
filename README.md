@@ -37,8 +37,8 @@ Studying: Java developer @ IT-Högskolan and .NET Full stack developer @ Chas Ac
   
  > - [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
  > - [Portfolio Webpage](https://annaaxelsson051.github.io/Portfolio/index.html)
- > - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/)
- > - <  >, space = jump
+ > - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
+ >  <  >, space = jump
   
   <h4>🤓 Currently working on<h4>
   
