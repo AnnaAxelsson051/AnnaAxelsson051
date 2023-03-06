@@ -1,7 +1,7 @@
 
 
 ✨ Discovered my passion for software development and switched careers. 
-Studying: Java developer @ IT-Högskolan and .NET Full stack developer @ Chas Academy.
+Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy.
 
 <h4>Technical skills</h4>
 
