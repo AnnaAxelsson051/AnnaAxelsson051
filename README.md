@@ -35,7 +35,7 @@ Studying: Java developer @ IT-Högskolan and .NET Full stack developer @ Chas Ac
   
    <h4>🌐 Beautiful things I've built</h4> 
   
- > - [Visual Sorting Algorithm](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
+ > - [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
  > - [Portfolio Webpage](https://annaaxelsson051.github.io/Portfolio/index.html)
  > - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
   
