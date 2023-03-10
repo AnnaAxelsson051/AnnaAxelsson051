@@ -29,15 +29,13 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
  + Json | Javafx | Scene Builder | XML | Thymeleaf | JUnit | Mockito | Maven | YAML | Dbgate | Github API | Jdbc | Github Actions CI/CD | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | It-law | Gdpr
    <h4>📚  Publications</h4>
   
-   > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)  
-   > - [Various Articles](https://annaaxelsson051.github.io/Portfolio/articles.html)  
+   > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)    
  
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
-   <h4>🌐 Beautiful things I've built</h4> 
+   <h4>🌐 Fun things I've built</h4> 
   
  > - [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
- > - [Portfolio Webpage](https://annaaxelsson051.github.io/Portfolio/index.html)
  > - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
   
   <h4>🤓 Currently working on<h4>
