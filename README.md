@@ -1,6 +1,6 @@
 
 
-✨ Discovered my passion for software development and switched careers. 
+🤓 Discovered my passion for software development and switched careers. 
 Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy.
 
 <h4>Technical skills</h4>
@@ -38,19 +38,13 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
  > - [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
  > - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
   
-  <h4>🤓 Currently working on<h4>
+  <h4> Currently working on<h4>
   
 > - Informative Law Website with database connectivity
 > - E-commerce Store with Java Spring Boot and Angular complete front and back end, database, log in and payments
 > - Teaming up with a an engineer to construct a webpage about Green Roofs for a research project
 > - Various games  
-> - Pathfinding algorithm visualizer
-  
-  <h4>Currently learning<h4> 
-    
-> - C#, databases, Agile and Scrum
-> - Java Spring, Maven, Mockito & unit testing, YAML, Github Actions (CI/CD)    
-> - Reading: *Clean Code* - Robert C. Martin    
+> - Pathfinding algorithm visualizer   
 
  <h4>Enjoys</h4>
 <p> Coding, Neuroscience, Psychology, Art, Humour<p/> 
