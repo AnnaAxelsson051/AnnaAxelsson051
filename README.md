@@ -11,7 +11,9 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mysql" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="40" height="40"/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
@@ -40,7 +42,7 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   
   <h4> Currently working on<h4>
   
-> - Informative Law Website with database connectivity
+> - Informative Law Firm Website with database connectivity
 > - E-commerce Store with Java Spring Boot and Angular complete front and back end, database, log in and payments
 > - Teaming up with a an engineer to construct a webpage about Green Roofs for a research project
 > - Various games  
