@@ -32,8 +32,8 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
  + Json | Javafx | Scene Builder | XML | Thymeleaf | JUnit | Mockito | Maven | YAML | Dbgate | Github API | Jdbc | Github Actions CI/CD | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | It-law | Gdpr
    <h4>📚  Publications</h4>
   
-   > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf)    
- 
+   > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
+
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
    <h4>🌐 Fun things I've built</h4> 
