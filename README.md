@@ -43,11 +43,11 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   
   <h4> Currently working on<h4>
   
-> - Informative Law Firm Website with database connectivity
+> - Informative law firm website with database connectivity
+> - React app where developer teams can find other developer teams to collaborate on projects with 
 > - E-commerce Store with Java Spring Boot and Angular complete front and back end, database, log in and payments
 > - Teaming up with a an engineer to construct a webpage about Green Roofs for a research project
-> - Various games  
-> - Pathfinding algorithm visualizer   
+> - Various games    
 
  <h4>Enjoys</h4>
 <p> Coding, Neuroscience, Psychology, Art, Humour<p/> 
