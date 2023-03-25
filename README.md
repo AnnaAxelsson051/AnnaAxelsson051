@@ -39,7 +39,7 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   
    <h4>🌐 Business things I've built</h4>
    
- > - [Law Firm Webpage](https://annaaxelsson051.github.io/Law-website/)
+ > - [Law Firm Website](https://annaaxelsson051.github.io/Law-website/)
   
    <h4>✨ Fun things I've built</h4> 
   
