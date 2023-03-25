@@ -48,10 +48,10 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   
   <h4> Currently working on<h4>
   
-> - An application in React that allows developer teams to find other developer teams to collaborate on projects with 
-> - E-commerce Store with Java Spring Boot and Angular complete front and back end, database, log in and payments  
-> - Teaming up with a an engineer to construct a webpage about Green Roofs for a research project
-> - 3d things  
+> - A full stack application in React + Mongodb that allows developer teams to find other developer teams to collaborate on projects with, authentication, log in, chat
+> - A full stack E-commerce Store with Java Spring Boot + mysql, authentication, log in and payment processing  
+> - Teaming up with a an engineer to construct a website about Green Roofs for a research project
+> - Fun 3d things  
 > - A game site with multiple games   
 
  <h4>Enjoys</h4>
