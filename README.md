@@ -37,18 +37,22 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
 
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
-   <h4>🌐 Fun things I've built</h4> 
+   <h4>🌐 Business things I've built</h4>
+   
+ > - [Law Firm Webpage](https://annaaxelsson051.github.io/Law-website/)
+  
+   <h4>✨ Fun things I've built</h4> 
   
  > - [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
  > - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
   
   <h4> Currently working on<h4>
   
-> - Informative law firm website with database connectivity
 > - React app where developer teams can find other developer teams to collaborate on projects with 
-> - E-commerce Store with Java Spring Boot and Angular complete front and back end, database, log in and payments
+> - E-commerce Store with Java Spring Boot and Angular complete front and back end, database, log in and payments  
 > - Teaming up with a an engineer to construct a webpage about Green Roofs for a research project
-> - Various games    
+> - 3d things  
+> - A game site    
 
  <h4>Enjoys</h4>
 <p> Coding, Neuroscience, Psychology, Art, Humour<p/> 
