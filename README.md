@@ -32,8 +32,11 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="spring" width="30" height="30"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="spring" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="spring" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="spring" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="spring" width="30" height="30"/>
   <p/>
- + Json | Javafx | Scene Builder | XML | Thymeleaf | JUnit | Mockito | Maven | YAML | Dbgate | Github API | Jdbc | Github Actions CI/CD | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | It-law | Gdpr
+ + Json | Javafx | Scene Builder | XML | Thymeleaf | JUnit | Mockito | Maven | YAML | Dbgate | Github API | Jdbc | Github Actions CI/CD | Mermaid | Lucid Chart | Kanban | Agile & Scrum | It-law | Gdpr
    <h4>📚  Publications</h4>
   
    > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
