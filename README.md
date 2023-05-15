@@ -39,7 +39,7 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg-->
   <p/>
 
-> - Java | C# | HTML | CSS | React | JavaScript | MySQL Workbench | MongoDb | Docker | PostgreSQL | SQLite | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Spring Boot | JPA | Javafx | Scene Builder | XML | Thymeleaf | JUnit | Bootstrap | Trello | Json | Mockito | Maven | YAML | Dbgate | Github API | Jdbc | Github Actions CI/CD | Mermaid | Lucid Chart | Kanban | Agile & Scrum | It-law | Gdpr
+> Java | C# | HTML | CSS | React | JavaScript | MySQL Workbench | MongoDb | Docker | PostgreSQL | SQLite | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Spring Boot | JPA | Javafx | Scene Builder | XML | Thymeleaf | JUnit | Bootstrap | Trello | Json | Mockito | Maven | YAML | Dbgate | Github API | Jdbc | Github Actions CI/CD | Mermaid | Lucid Chart | Kanban | Agile & Scrum | It-law | Gdpr
    <h4>📚  Publications</h4>
   
    > - [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
