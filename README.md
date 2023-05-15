@@ -48,12 +48,12 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   
    <h4>🌐 Business things I've built</h4>
    
- > - [Law Firm Website](https://annaaxelsson051.github.io/Law-website/)
+ - [Law Firm Website](https://annaaxelsson051.github.io/Law-website/)
   
    <h4>✨ Fun things I've built</h4> 
   
- > - [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
- > - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
+ - [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
+ - [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
   
   <!--
   <h4> Currently working on<h4>
