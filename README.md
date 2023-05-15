@@ -3,7 +3,7 @@
 Discovered my passion for software development and switched careers. 
 Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy.
 
-<h4>Some of the technologies and tools I have worked with and learned:</h4>
+<h4>Some of the technologies and tools I have worked with and learned</h4>
 <!--
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
@@ -43,17 +43,17 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 link -->
   
-<h4>Business things I've built:</h4>
+<h4>Business things I've built</h4>
    
 [Law Firm Website](https://annaaxelsson051.github.io/Law-website/)
   
-<h4>Fun things I've built:</h4> 
+<h4>Fun things I've built</h4> 
   
 [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
 
 [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
 
-<h4>Publications:</h4>
+<h4>Publications</h4>
   
 [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
   
