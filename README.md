@@ -1,9 +1,9 @@
 
 
-🤓 Discovered my passion for software development and switched careers. 
+Discovered my passion for software development and switched careers. 
 Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy.
 
-<h4>Technologies and tools I have worked with and learned</h4>
+<h4>Some technologies and tools I have worked with and learned</h4>
 <!--
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
@@ -40,11 +40,7 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   <p/>
 
 > Java | C# | HTML | CSS | React | JavaScript | MySQL Workbench | MongoDb | Docker | PostgreSQL | SQLite | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Spring Boot | JPA | Javafx | Scene Builder | XML | Thymeleaf | JUnit | Bootstrap | Trello | Json | Mockito | Maven | YAML | Dbgate | Github API | Jdbc | Github Actions CI/CD | Mermaid | Lucid Chart | Kanban | Agile & Scrum | It-law | Gdpr
-   
-<h4>📚  Publications</h4>
   
-[How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
-
   <!-- 👋 😊 💜 ✨ 🤓 🌐 link -->
   
 <h4>🌐 Business things I've built</h4>
@@ -56,6 +52,10 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
 [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
 
 [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
+
+<h4>📚  Publications</h4>
+  
+[How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
   
   <!--
   <h4> Currently working on<h4>
