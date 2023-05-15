@@ -54,6 +54,7 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
 <h4>✨ Fun things I've built</h4> 
   
 [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
+
 [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
   
   <!--
