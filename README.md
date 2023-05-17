@@ -43,19 +43,20 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 link -->
   
-<h4>Business things I've built</h4>
+📚 <h4>Publications</h4>
+  
+[How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
+
+🌐 <h4>Business things I've built</h4>
    
 [Law Firm Website](https://annaaxelsson051.github.io/Law-website/)
   
-<h4>Fun things I've built</h4> 
+✨ <h4>Fun things I've built</h4> 
   
 [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
 
 [Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
 
-<h4>Publications</h4>
-  
-[How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
   
   <!--
   <h4> Currently working on<h4>
