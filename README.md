@@ -1,6 +1,6 @@
 
 
-🤓 Discovered my passion for software development and switched careers. 
+🤓 Attorney who discovered my passion for software development and switched careers. 
 Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy.
 
 <h4>Some of the technologies and tools I have used and learned</h4>
