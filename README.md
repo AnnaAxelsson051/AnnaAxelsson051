@@ -55,7 +55,7 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   
 [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
 
-[Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump
+<!--[Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump-->
 
   
   <!--
