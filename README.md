@@ -40,18 +40,21 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   <p/>
 <p class="align center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="65" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="css" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="css" width="50" height="50"/>
   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mysql" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
 <p/>    
-SQL | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Minimal API | Azure datastudio | Spring Boot | Spring tool suite | JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | JUnit | Jdbc | Json | Postman | Mockito | Maven | YAML | Github API | Github Actions CI/CD | Bootstrap | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr
+
+Plus
+ 
+SQL | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Minimal API | DbGate | Azure datastudio | Spring Boot | Spring tool suite | JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | JUnit | Jdbc | Json | Postman | Mockito | Maven | YAML | Github API | Github Actions CI/CD | Bootstrap | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr
 
 <!--
 > Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | Docker | PostgreSQL | SQLite | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Minimal API | Azure datastudio | Spring Boot | Spring tool suite | JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | JUnit | Jdbc | Json | Postman | Mockito | Maven | YAML | Github API | Github Actions CI/CD | Bootstrap | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr-->
