@@ -39,7 +39,7 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg-->
   <p/>
 <p class="align center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
@@ -51,7 +51,7 @@ Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack deve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
 <p/>    
-SQL | MySQL Workbench | MongoDb | Docker | PostgreSQL | SQLite | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Minimal API | Azure datastudio | Spring Boot | Spring tool suite | JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | JUnit | Jdbc | Json | Postman | Mockito | Maven | YAML | Github API | Github Actions CI/CD | Bootstrap | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr
+SQL | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Minimal API | Azure datastudio | Spring Boot | Spring tool suite | JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | JUnit | Jdbc | Json | Postman | Mockito | Maven | YAML | Github API | Github Actions CI/CD | Bootstrap | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr
 
 <!--
 > Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | Docker | PostgreSQL | SQLite | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Minimal API | Azure datastudio | Spring Boot | Spring tool suite | JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | JUnit | Jdbc | Json | Postman | Mockito | Maven | YAML | Github API | Github Actions CI/CD | Bootstrap | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr-->
