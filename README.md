@@ -69,7 +69,7 @@ Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | 
   
 <h4>✨ Fun things I've built</h4> 
   
-[Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Visual-Sorting-Algorithms/)
+[Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Sorting-Algorithm-Visualizer/)
 
 <!--[Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) <  >, space = jump-->
 
