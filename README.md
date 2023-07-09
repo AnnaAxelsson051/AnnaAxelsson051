@@ -3,7 +3,7 @@
 🤓 Attorney who discovered my passion for software development and switched careers. 
 Studying: Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy.
 
-<h3>Some of the technologies and tools I have used and learned</h3>
+<h3>Some technologies and tools I have used and learned</h3>
 <!--
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
