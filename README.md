@@ -70,7 +70,7 @@ Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | 
   
 [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Sorting-Algorithm-Visualizer/)
 
-[Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < = left,  > = right, space = jump)
+[Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
 
   
   <!--
