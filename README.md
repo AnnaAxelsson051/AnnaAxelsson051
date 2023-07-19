@@ -58,15 +58,15 @@ Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | 
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 link -->
   
-<h4>Publications:</h4>
+<h4>📚 Publications:</h4>
   
 [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
 
-<h4>Business things I've built:</h4>
+<h4>🌐 Business things I've built:</h4>
    
 [Law Firm Website](https://annaaxelsson051.github.io/Law-Firm-website/)
   
-<h4>Fun things I've built:</h4> 
+<h4>✨ Fun things I've built:</h4> 
   
 [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Sorting-Algorithm-Visualizer/)
 
