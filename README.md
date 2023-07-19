@@ -2,8 +2,6 @@
 
 🤓 Attorney who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy. 
 
----
-
 <h3>Some technologies and tools I have used and learned</h3>
 <!--
 <p align="left"> 
@@ -86,10 +84,10 @@ Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | 
 > - Fun 3d things  
 > - A game site with multiple games   -->
 
----
 
+<!--
  <h4>Enjoys</h4>
-<p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
+<p>Coding, Neuroscience, Psychology, Art, Humour<p/> -->
     
     
     
