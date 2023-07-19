@@ -59,6 +59,8 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
 Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | Docker | PostgreSQL | SQLite | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Minimal API | Azure datastudio | Spring Boot | Spring tool suite | JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | JUnit | Jdbc | Json | Postman | Mockito | Maven | YAML | Github API | Github Actions CI/CD | Bootstrap | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | GDPR-->
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 link -->
+
+  ---
   
 <h4>📚 Publications</h4>
   
