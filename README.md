@@ -86,6 +86,8 @@ Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | 
 > - Fun 3d things  
 > - A game site with multiple games   -->
 
+---
+
  <h4>Enjoys</h4>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
     
