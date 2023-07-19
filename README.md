@@ -74,20 +74,9 @@ Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | 
 
 [Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
 
-  
-  <!--
-  <h4> Currently working on<h4>
-  
-> - A full stack application in React + Mongodb that allows developer teams to find other developer teams to collaborate on projects with, authentication, log in, chat
-> - A full stack E-commerce Store with Java Spring Boot + mysql, authentication, log in and payment processing  
-> - Teaming up with a an engineer to construct a website about Green Roofs for a research project
-> - Fun 3d things  
-> - A game site with multiple games   -->
 
-
-<!--
  <h4>Enjoys</h4>
-<p>Coding, Neuroscience, Psychology, Art, Humour<p/> -->
+<p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
     
     
     
