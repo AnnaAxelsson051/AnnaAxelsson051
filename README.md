@@ -41,7 +41,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="65" height="55"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" alt="csharp" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" alt="dotnet-core" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql-server" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -52,7 +53,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
 <p/>    
  
-SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | Jdbc | Json | Mockito | JUnit | MVC |  Microservices architecture | Password encryption & hashing | Payment processing with Stripe & Paypal | Github API | Github Actions CI/CD | Gradle | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Maven | YAML | Typescript | Markdown | Bootstrap | Material ui | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios | Scaleability - Mobile First | Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash | Mermaid | Lucid Chart | Draw.io | Postman | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr
+SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | Jdbc | Json | Mockito | JUnit | MVC |  Microservices architecture | Password encryption & hashing | Payment processing with Stripe & Paypal | Github API | Github Actions CI/CD | Gradle | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Maven | YAML | Typescript | Markdown | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios | Scaleability - Mobile First | Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash | Mermaid | Lucid Chart | Draw.io | Postman | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr
 <!--
 Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | Docker | PostgreSQL | SQLite | DbGate | Markdown | Vim | Git | Bash | Webstorm | IntelliJ | Visual Studio | VSCode | Gradle | .NET | Minimal API | Azure datastudio | Spring Boot | Spring tool suite | JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | JUnit | Jdbc | Json | Postman | Mockito | Maven | YAML | Github API | Github Actions CI/CD | Bootstrap | Mermaid | Lucid Chart | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | GDPR-->
   
