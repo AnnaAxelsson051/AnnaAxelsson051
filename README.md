@@ -63,7 +63,7 @@ Java | C# | HTML | CSS | React | JavaScript | SQL | MySQL Workbench | MongoDb | 
   
 <h4>📄 Publications</h4>
   
-[How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) (Thesis)
+[How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
 
 <h4>🔗 Business things I've built</h4>
    
