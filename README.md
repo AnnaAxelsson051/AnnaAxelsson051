@@ -1,6 +1,6 @@
 
 
-Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy. 
+Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, along with building multiple side projects. 
 
 <h3>Technology Stack and Tools</h3>
 <!--
