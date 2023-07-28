@@ -60,7 +60,7 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
 
   ---
   
-<h4>📄 &nbsp;Publications</h4>
+<h4>📚 &nbsp;Publications</h4>
   
   [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
 
@@ -68,7 +68,7 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
    
    [Law Firm Website](https://annaaxelsson051.github.io/Law-Firm-website/)
   
-<h4>🎮 &nbsp;Fun things I've built</h4> 
+<h4>🕹️ &nbsp;Fun things I've built</h4> 
    
    [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Sorting-Algorithm-Visualizer/)
 
