@@ -62,7 +62,7 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
   
 <h4>📄 &nbsp;Publications</h4>
   
-[How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
+- [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
 
 <h4>💼 &nbsp;Business things I've built</h4>
    
