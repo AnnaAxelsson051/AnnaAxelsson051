@@ -1,6 +1,6 @@
 
 
-Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, along with building multiple side projects. 
+Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, along with building multiple side projects 😊
 
 <h3>Technology Stack and Tools</h3>
 <!--
@@ -75,7 +75,7 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
 [Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
 
 
- <h4>💜 &nbsp;Enjoys</h4>
+ <h4>Enjoys</h4>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
     
     
