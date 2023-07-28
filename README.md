@@ -62,17 +62,17 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
   
 <h4>📄 &nbsp;Publications</h4>
   
-- [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
+  [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
 
 <h4>💼 &nbsp;Business things I've built</h4>
    
-- [Law Firm Website](https://annaaxelsson051.github.io/Law-Firm-website/)
+   [Law Firm Website](https://annaaxelsson051.github.io/Law-Firm-website/)
   
 <h4>🎮 &nbsp;Fun things I've built</h4> 
-  
-- [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Sorting-Algorithm-Visualizer/)
+   
+   [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Sorting-Algorithm-Visualizer/)
 
-- [Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
+   [Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
 
 
  <h4>Enjoys</h4>
