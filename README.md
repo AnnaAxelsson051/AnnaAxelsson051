@@ -68,7 +68,7 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
    
 [Law Firm Website](https://annaaxelsson051.github.io/Law-Firm-website/)
   
-<h4>🎮 🕹️ Fun things I've built</h4> 
+<h4>🎮 Fun things I've built</h4> 
   
 [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Sorting-Algorithm-Visualizer/)
 
