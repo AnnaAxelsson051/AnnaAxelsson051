@@ -75,7 +75,7 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
 [Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
 
 
- <h4>Enjoys</h4>
+ <h4>💜 &nbsp;Enjoys</h4>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
     
     
