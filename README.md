@@ -77,6 +77,8 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
 
  <h4>Enjoys</h4>
 <p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
+
+[![Images](https://github-readme-stats.vercel.app/api/pin/?username=AnnaAxelsso051&repo=Images)](https://github.com/AnnaAxelsso051/Images)
     
     
     
