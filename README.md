@@ -65,10 +65,10 @@ Lawyer who discovered my passion for software development and switched careers. 
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
    
-   <h4>Academic Merits</h4>
-  > - Java Developer
-  > - .Net Full Stack Developer
-  > - Degree of Master of Laws, LL.M. (Gdpr, It-Law)
+<h4>Academic Merits</h4>
+- Java Developer
+- .Net Full Stack Developer
+- Degree of Master of Laws, LL.M. (Gdpr, It-Law)
 <p/>    
  <!--
 SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | Jdbc | Json | Mockito | JUnit | xUnit | MVC |  Microservices | Github Actions | CI/CD | Gradle | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Maven | YAML | Password encryption & hashing | Payment processing with Stripe & Paypal | Typescript | Markdown | Github API | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios | Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash | Mermaid | Lucid Chart | Draw.io | Postman | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr-->
