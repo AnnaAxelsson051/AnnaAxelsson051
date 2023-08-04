@@ -67,7 +67,9 @@ Lawyer who discovered my passion for software development and switched careers. 
    
 <h4>Academic Merits</h4>
 - Java Developer
+
 - .Net Full Stack Developer
+
 - Degree of Master of Laws, LL.M. (Gdpr, It-Law)
 <p/>    
  <!--
