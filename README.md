@@ -1,8 +1,8 @@
-
+<!--
 
 Lawyer who discovered my passion for software development and switched careers. <!-- by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, alongside building multiple side projects.-->
 
-<h3>Tech Stack and Tools</h3>
+<h3>Tech Stack and Tools</h3>-->
 <!--
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
@@ -52,8 +52,8 @@ Lawyer who discovered my passion for software development and switched careers. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
 <p/>    
- 
-SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | Jdbc | Json | Mockito | JUnit | xUnit | MVC |  Microservices | Github Actions | CI/CD | Gradle | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Maven | YAML | Password encryption & hashing | Payment processing with Stripe & Paypal | Typescript | Markdown | Github API | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios | Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash | Mermaid | Lucid Chart | Draw.io | Postman | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr
+ <!--
+SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | Jdbc | Json | Mockito | JUnit | xUnit | MVC |  Microservices | Github Actions | CI/CD | Gradle | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Maven | YAML | Password encryption & hashing | Payment processing with Stripe & Paypal | Typescript | Markdown | Github API | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios | Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash | Mermaid | Lucid Chart | Draw.io | Postman | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr-->
 
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ link -->
@@ -75,8 +75,9 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
    [Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
 
 -->
+<!--
  <h4>Enjoys</h4>
-<p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
+<p>Coding, Neuroscience, Psychology, Art, Humour<p/> -->
 
     
     
