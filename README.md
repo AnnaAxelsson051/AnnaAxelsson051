@@ -65,7 +65,7 @@ Lawyer who discovered my passion for software development and switched careers. 
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
    
-   Educations:
+   <h4>Educations</h4>
    Java Developer
    .Net Full Stack Developer
    Degree of Master of Laws, LL.M. (Gdpr, It-Law)
