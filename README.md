@@ -1,6 +1,6 @@
 <!--
 
-Lawyer who discovered my passion for software development and switched careers. <!-- by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, alongside building multiple side projects.-->
+Lawyer who discovered my passion for software development and switched careers.  by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, alongside building multiple side projects.
 
 <h3>Tech Stack and Tools</h3>-->
 <!--
@@ -58,8 +58,8 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ link -->
 
-  ---
- <!-- 
+   <!-- ---
+ 
 <h4>📚 &nbsp;Publications</h4>
   
   [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
