@@ -34,7 +34,8 @@ Lawyer who discovered my passion for software development and switched careers. 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="spring" width="30" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="spring" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="spring" width="30" height="30"/>-->
-  
+
+  <h4>Tech Stack</h4>
   <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg-->
   <p/>
 <p class="align center">
