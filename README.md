@@ -1,6 +1,6 @@
 
 
-🤓 Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy alongside building multiple side projects.
+Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy alongside building multiple side projects.
 
   <h3>Tech Stack and Tools</h3>
   <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg-->
