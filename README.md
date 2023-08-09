@@ -2,8 +2,6 @@
 
 Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy alongside building multiple side projects.
 
-![Java](https://img.shields.io/badge/-Java-red?&logo=java) 
-
   <h3>Tech Stack and Tools</h3>
   <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg-->
   <p/>
