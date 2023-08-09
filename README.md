@@ -33,7 +33,7 @@ Lawyer who discovered my passion for software development and switched careers b
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
 
 <p/>    
-  <b>Backend Technologies and Databases: </b> SQL, .NET Web API, Spring Boot, Spring-Data-JPA, REST, MVC, Microservices, Ocelot gateway, Entity Framework, Minimal API, Linq, SQLite, DbGate, Azure data studio, Json 
+  <b>Backend Technologies and Databases: </b> SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | MVC | Microservices | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json 
   
 <b>Frontend Technologies, Libraries and Design: </b> 
   Javafx, Scene Builder, FXML, Thymeleaf, Scaleability, Responsiveness, Mobile First, Bootstrap, Material ui, Node.js, Three.js, Kaboom.js, Animations, Vite, Redux, Router-dom, Axios
@@ -41,19 +41,19 @@ Lawyer who discovered my passion for software development and switched careers b
 <b>Testing and Quality Assurance: </b>
 Mockito, JUnit, xUnit
 
-<b>DevOps and CI/CD: </b><br>
+<b>DevOps and CI/CD: </b>
 CI/CD, Github Actions, Gradle, Maven, YAML, Azure Service Bus, Swagger
 
-<b>Security and Compliance: </b><br>
+<b>Security and Compliance: </b>
 Password encryption & hashing, Payment processing with Stripe & Paypal, Web Content Accessibility Guidelines, It-law, Gdpr
 
-<b>Project Management and Methodologies: </b><br>
+<b>Project Management and Methodologies: </b>
 Postman, Kanban, Trello, Agile & Scrum
 
-<b>Design and Documentation: </b><br>
+<b>Design and Documentation: </b>
 Mermaid, Lucid Chart, Draw.io, Markdown, Github API
 
-<b>Development Tools and Environments: </b><br>
+<b>Development Tools and Environments: </b>
 Webstorm, IntelliJ, Visual Studio, VSCode, Spring tool suite, Vim, Git, Bash
 
 <!--
