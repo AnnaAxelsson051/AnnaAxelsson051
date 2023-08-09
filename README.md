@@ -38,7 +38,7 @@ Lawyer who discovered my passion for software development and switched careers b
 <b>Frontend Technologies, Libraries and Design: </b> 
   Javafx | Scene Builder | FXML | Thymeleaf | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios
 
-<b>Testing, Security and Compliance : </b>
+<b>Testing, Security and Compliance: </b>
 Mockito | JUnit | xUnit | Password encryption & hashing | Payment processing with Stripe & Paypal | Web Content Accessibility Guidelines | It-law | Gdpr
 
 <b>DevOps, Project Management & Documentation Tools: </b> 
