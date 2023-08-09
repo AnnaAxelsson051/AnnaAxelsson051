@@ -33,8 +33,8 @@ Lawyer who discovered my passion for software development and switched careers b
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
 
 <p/>    
-  <b>Backend Technologies and Databases</b>
- <p>SQL, .NET Web API, Spring Boot, Spring-Data-JPA, Entity Framework, Minimal API, Linq, SQLite, DbGate, Azure data studio</p> 
+  <b>Backend Technologies and Databases: </b>
+ SQL, .NET Web API, Spring Boot, Spring-Data-JPA, Entity Framework, Minimal API, Linq, SQLite, DbGate, Azure data studio 
 <!--
 SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | Jdbc | Json | Mockito | JUnit | xUnit | MVC |  Microservices | Ocelot Gateway | CI/CD | Github Actions | Gradle | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Maven | YAML | Password encryption & hashing | Payment processing with Stripe & Paypal | Azure Service Bus | Swagger | Typescript | Markdown | Github API | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios | Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash | Mermaid | Lucid Chart | Draw.io | Postman | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr-->
 
