@@ -34,7 +34,28 @@ Lawyer who discovered my passion for software development and switched careers b
 
 <p/>    
   <b>Backend Technologies and Databases: </b><br>  
-  SQL, .NET Web API, Spring Boot, Spring-Data-JPA, Entity Framework, Minimal API, Linq, SQLite, DbGate, Azure data studio 
+  SQL, .NET Web API, Spring Boot, Spring-Data-JPA, REST, MVC, Microservices, Ocelot gateway, Entity Framework, Minimal API, Linq, SQLite, DbGate, Azure data studio, Json 
+  <b>Frontend Technologies, Libraries and Design: </b><br> 
+  Javafx, Scene Builder, FXML, Thymeleaf, Scaleability, Responsiveness, Mobile First, Bootstrap, Material ui, Node.js, Three.js, Kaboom.js, Animations, Vite, Redux, Router-dom, Axios
+
+<b>Testing and Quality Assurance: </b><br>
+Mockito, JUnit, xUnit
+
+<b>DevOps and CI/CD: </b><br>
+CI/CD, Github Actions, Gradle, Maven, YAML, Azure Service Bus, Swagger
+
+<b>Security and Compliance: </b><br>
+Password encryption & hashing, Payment processing with Stripe & Paypal, Web Content Accessibility Guidelines, It-law, Gdpr
+
+<b>Project Management and Methodologies: </b><br>
+Postman, Kanban, Trello, Agile & Scrum
+
+<b>Design and Documentation: </b><br>
+Mermaid, Lucid Chart, Draw.io, Markdown, Github API
+
+<b>Development Tools and Environments: </b><br>
+Webstorm, IntelliJ, Visual Studio, VSCode, Spring tool suite, Vim, Git, Bash
+
 <!--
 SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | Jdbc | Json | Mockito | JUnit | xUnit | MVC |  Microservices | Ocelot Gateway | CI/CD | Github Actions | Gradle | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Maven | YAML | Password encryption & hashing | Payment processing with Stripe & Paypal | Azure Service Bus | Swagger | Typescript | Markdown | Github API | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios | Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash | Mermaid | Lucid Chart | Draw.io | Postman | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr-->
 
