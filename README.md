@@ -41,7 +41,7 @@ Lawyer who discovered my passion for software development and switched careers b
 <b>Testing, Security and Compliance: </b>
 Mockito | JUnit | xUnit | Password encryption & hashing | Payment processing with Stripe & Paypal | Web Content Accessibility Guidelines | It-law | Gdpr
 
-<b>DevOps, Project Management and Documentation Tools: </b> 
+<b>DevOps, Project Management and Documentation: </b> 
 Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman | Kanban | Trello | Agile & Scrum | Mermaid | Lucid Chart | Draw.io | Markdown | Github API
 
 <b>Development Tools and Environments: </b>
