@@ -71,7 +71,7 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FX
 
 -->
  <h4>Enjoys</h4>
-<p>Coding, Neuroscience, Psychology, Art, Humour<p/> 
+<p>Coding, Neuroscience, Art, Psychology, Humour<p/> 
 
     
     
