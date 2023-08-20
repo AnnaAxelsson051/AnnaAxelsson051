@@ -34,27 +34,28 @@ Lawyer who discovered my passion for software development and switched careers b
 
 <p/>    
 
-   <b>Backend, Cloud Native Technologies and Architectural Patterns: </b> <br>
+   <b>Backend, Cloud Native Technologies and Architectural Patterns </b> <br>
 SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json | MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud Gateway | Spring Cloud Open Feign | Spring Cloud Config Server | Spring Cloud Bus | RabbitMQ  | Spring Cloud Sleuth | Spring Cloud Circuit Breaker | Eureka & Service Discovery
   
- <!-- <b>Backend Technologies and Databases: </b> SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | MVC | Microservices | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json 
+ <!-- <b>Backend Technologies and Databases </b> <br>
+SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | MVC | Microservices | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json 
 
-<b>Design Patterns and Cloud Native Technologies: </b> MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud Gateway | Spring Cloud Open Feign | Spring Cloud Config Server | Spring Cloud Bus | RabbitMQ  | Spring Cloud Sleuth | Spring Cloud Circuit Breaker | Eureka & Service Discovery-->
+<b>Design Patterns and Cloud Native Technologies </b> <br>
+MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud Gateway | Spring Cloud Open Feign | Spring Cloud Config Server | Spring Cloud Bus | RabbitMQ  | Spring Cloud Sleuth | Spring Cloud Circuit Breaker | Eureka & Service Discovery-->
   
-<b>Frontend Technologies, Libraries and Design: </b> 
+<b>Frontend Technologies, Libraries and Design </b> <br>
   Javafx | Scene Builder | FXML | Thymeleaf | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios
 
-<b>Testing, Security and Compliance: </b>
+<b>Testing, Security and Compliance </b><br>
 Mockito | JUnit | xUnit | Test Driven Development | Password encryption & hashing | Payment processing with Stripe & Paypal | Web Content Accessibility Guidelines | It-law | Gdpr
 
-<b>DevOps, Project Management and Documentation: </b> 
+<b>DevOps, Project Management and Documentation </b><br> 
 Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman | Kanban | Trello | Agile & Scrum | Mermaid | Lucid Chart | Draw.io | Markdown | Github API
 
-<b>Development Tools and Environments: </b>
+<b>Development Tools and Environments </b><br>
 Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash
 
-<!--
-SQL | .NET Web API | Spring Boot | Spring-Data-JPA | Javafx | Scene Builder | FXML | REST | Thymeleaf | Jdbc | Json | Mockito | JUnit | xUnit | MVC |  Microservices | Ocelot Gateway | CI/CD | Github Actions | Gradle | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Maven | YAML | Password encryption & hashing | Payment processing with Stripe & Paypal | Azure Service Bus | Swagger | Typescript | Markdown | Github API | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios | Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash | Mermaid | Lucid Chart | Draw.io | Postman | Kanban | Trello | Agile & Scrum | Web Content Accessibility Guidelines | It-law | Gdpr-->
+
 
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ link -->
