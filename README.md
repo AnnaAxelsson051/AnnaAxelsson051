@@ -33,13 +33,18 @@ Lawyer who discovered my passion for software development and switched careers b
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
 
 <p/>    
+
+   <b>Backend, Cloud Native Technologies and Architectural Patterns </b> SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json | MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud Gateway | Spring Cloud Open Feign | Spring Cloud Config Server | Spring Cloud Bus | RabbitMQ  | Spring Cloud Sleuth | Spring Cloud Circuit Breaker | Eureka & Service Discovery
+  
   <b>Backend Technologies and Databases: </b> SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | MVC | Microservices | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json 
+
+<b>Design Patterns and Cloud Native Technologies: </b> MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud Gateway | Spring Cloud Open Feign | Spring Cloud Config Server | Spring Cloud Bus | RabbitMQ  | Spring Cloud Sleuth | Spring Cloud Circuit Breaker | Eureka & Service Discovery
   
 <b>Frontend Technologies, Libraries and Design: </b> 
   Javafx | Scene Builder | FXML | Thymeleaf | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios
 
 <b>Testing, Security and Compliance: </b>
-Mockito | JUnit | xUnit | Password encryption & hashing | Payment processing with Stripe & Paypal | Web Content Accessibility Guidelines | It-law | Gdpr
+Mockito | JUnit | xUnit | Test Driven Development | Password encryption & hashing | Payment processing with Stripe & Paypal | Web Content Accessibility Guidelines | It-law | Gdpr
 
 <b>DevOps, Project Management and Documentation: </b> 
 Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman | Kanban | Trello | Agile & Scrum | Mermaid | Lucid Chart | Draw.io | Markdown | Github API
