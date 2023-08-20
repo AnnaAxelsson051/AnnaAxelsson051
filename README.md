@@ -34,7 +34,8 @@ Lawyer who discovered my passion for software development and switched careers b
 
 <p/>    
 
-   <b>Backend, Cloud Native Technologies and Architectural Patterns </b> SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json | MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud Gateway | Spring Cloud Open Feign | Spring Cloud Config Server | Spring Cloud Bus | RabbitMQ  | Spring Cloud Sleuth | Spring Cloud Circuit Breaker | Eureka & Service Discovery
+   <b>Backend, Cloud Native Technologies and Architectural Patterns: </b> 
+SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json | MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud Gateway | Spring Cloud Open Feign | Spring Cloud Config Server | Spring Cloud Bus | RabbitMQ  | Spring Cloud Sleuth | Spring Cloud Circuit Breaker | Eureka & Service Discovery
   
  <!-- <b>Backend Technologies and Databases: </b> SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | MVC | Microservices | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json 
 
