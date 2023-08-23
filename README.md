@@ -56,30 +56,13 @@ Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman |
 Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash
  
   
-  <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ link -->
+  <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ 💼 🕹️ -->
 
-   <!-- ---
- 
-<h4>📚 &nbsp;Publications</h4>
-  
-  [How Tech Shapes the Law](https://github.com/AnnaAxelsson051/AnnaAxelsson051/files/10737760/Examensarbete.Anna.Axelsson.pdf) 
-
-<h4>💼 &nbsp;Business things I've built</h4>
-   
-   [Law Firm Website](https://annaaxelsson051.github.io/Law-Firm-website/)
-  
-<h4>🕹️ &nbsp;Fun things I've built</h4> 
-   
-   [Sorting Algorithm Visualizer](https://annaaxelsson051.github.io/Sorting-Algorithm-Visualizer/)
-
-   [Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
-
--->
 <h3>Certifications</h3>
 
-- [Java Datastructures and Algorithms](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Datastructures-and-Algorithms-Certificate.pdf)
-- [Java Programming Masterclass](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Java-Masterclass-certificate.pdf)
-- [Build Responsive Real-World Websites with Html and Css](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Html-and-css-certificate.pdf)
+- [Java Datastructures and Algorithms](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Datastructures-and-Algorithms-Certificate.pdf) - Udemy
+- [Java Programming Masterclass](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Java-Masterclass-certificate.pdf) - Udemy
+- [Build Responsive Real-World Websites with Html and Css](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Html-and-css-certificate.pdf) - Udemy
 
  <h4>Enjoys</h4>
 <p>Coding, Neuroscience, Art, Psychology, Humour<p/>
