@@ -55,8 +55,13 @@ Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman |
 <b>Development Tools and Environments </b><br>
 Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash
 
+<h3>Certifications</h3>
+- [Java Datastructures and Algorithms](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Datastructures-and-Algorithms-Certificate.pdf)
+- [Java Programming Masterclass](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Java-Masterclass-certificate.pdf)
+- [Build Responsive Real-World Websites with Html and Css](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Html-and-css-certificate.pdf)
 
-
+ <h4>Enjoys</h4>
+<p>Coding, Neuroscience, Art, Psychology, Humour<p/> 
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ link -->
 
@@ -77,8 +82,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
    [Retro Super Mario Game](https://annaaxelsson051.github.io/Super-Mario-Game/) (Navigation: < >, space = jump)
 
 -->
- <h4>Enjoys</h4>
-<p>Coding, Neuroscience, Art, Psychology, Humour<p/> 
+
 
     
     
