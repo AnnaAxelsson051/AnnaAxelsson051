@@ -4,6 +4,9 @@ Lawyer who discovered my passion for software development and switched careers b
 
 <a href="https://annaaxelsson.com/" style="font-size: larger; font-weight: bold;">My Portfolio</a>
 
+<a href="https://annaaxelsson.com/" style="font-size: 24px; font-weight: 700;">My Portfolio</a>
+
+
 
   <h3>Tech Stack and Tools</h3>
   <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg-->
