@@ -3,6 +3,7 @@
 Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy alongside building multiple side projects.
 
 [My Portfolio](https://annaaxelsson.com/)
+<a href="https://annaaxelsson.com/" style="font-size: larger; font-weight: bold;">My Portfolio</a>
 
 
   <h3>Tech Stack and Tools</h3>
