@@ -64,6 +64,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
 <h3>Certifications</h3>
 
 - [Java Datastructures and Algorithms](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Datastructures-and-Algorithms-Certificate.pdf) - Udemy
+- [Mastering SQL](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Mysql-certificate.pdf) - Udemy
 - [Java Programming Masterclass](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Java-Masterclass-certificate.pdf) - Udemy
 - [Build Responsive Real-World Websites with Html and Css](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Html-and-css-certificate.pdf) - Udemy
 
