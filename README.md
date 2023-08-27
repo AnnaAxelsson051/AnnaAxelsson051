@@ -39,13 +39,13 @@ Lawyer who discovered my passion for software development and switched careers b
 
    <b>Backend, Cloud Native Technologies and Architectural Patterns </b> <br>
 SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json | MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud: Gateway, Open Feign, Config Server, Bus, Sleuth, Circuit Breaker
-Eureka & Service Discovery | RabbitMQ
+Eureka & Service Discovery | Spring Mail | RabbitMQ
+
+<b>Testing, Security and Compliance</b><br>
+Mockito | JUnit | xUnit | Test Driven Development | .NET Identity | Sprig Security | Spring OAuth | Password encryption & hashing | Payment processing with Stripe-API & Paypal-API | Web Content Accessibility Guidelines | It-law | Gdpr 
   
 <b>Frontend Technologies, Libraries and Design </b> <br>
-  Javafx | Scene Builder | FXML | Thymeleaf | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios
-
-<b>Testing, Security and Compliance </b><br>
-Mockito | JUnit | xUnit | Test Driven Development | Password encryption & hashing | Payment processing with Stripe & Paypal | Web Content Accessibility Guidelines | It-law | Gdpr
+  Javafx | Scene Builder | FXML | Thymeleaf | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios 
 
 <b>DevOps, Project Management and Documentation </b><br> 
 Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman | Kanban | Trello | Agile & Scrum | Mermaid | Lucid Chart | Draw.io | Markdown | Github API
