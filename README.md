@@ -42,7 +42,7 @@ SQL | .NET Web API | Spring Boot | Spring-Data-JPA | REST | Ocelot gateway | Ent
 Eureka & Service Discovery | Spring Mail | RabbitMQ
 
 <b>Testing, Security and Compliance</b><br>
-Mockito | JUnit | xUnit | Test Driven Development | .NET Identity | Sprig Security | Spring OAuth | Password encryption & hashing | Payment processing with Stripe-API & Paypal-API | Web Content Accessibility Guidelines | It-law | Gdpr 
+Mockito | JUnit | xUnit | Test Driven Development | .NET Identity | Sprig Security | Spring OAuth | Password encryption & hashing | Payment processing: Stripe-API & Paypal-API | Web Content Accessibility Guidelines | It-law | Gdpr 
   
 <b>Frontend Technologies, Libraries and Design </b> <br>
   Javafx | Scene Builder | FXML | Thymeleaf | Scaleability | Responsiveness | Mobile First | Bootstrap | Tailwind | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios 
