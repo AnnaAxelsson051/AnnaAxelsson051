@@ -45,7 +45,7 @@ Eureka & Service Discovery | Spring Mail | RabbitMQ
 Mockito | JUnit | xUnit | Test Driven Development | .NET Identity | Sprig Security | Spring OAuth | Password encryption & hashing | Payment processing with Stripe-API & Paypal-API | Web Content Accessibility Guidelines | It-law | Gdpr 
   
 <b>Frontend Technologies, Libraries and Design </b> <br>
-  Javafx | Scene Builder | FXML | Thymeleaf | Scaleability | Responsiveness | Mobile First | Bootstrap | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios 
+  Javafx | Scene Builder | FXML | Thymeleaf | Scaleability | Responsiveness | Mobile First | Bootstrap | Tailwind | Material ui | Node.js | Three.js | Kaboom.js | Animations | Vite | Redux | Router-dom | Axios 
 
 <b>DevOps, Project Management and Documentation </b><br> 
 Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman | Kanban | Trello | Agile & Scrum | Mermaid | Lucid Chart | Draw.io | Markdown | Github API
