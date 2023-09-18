@@ -62,8 +62,10 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
 - [Mastering SQL](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Mysql-certificate.pdf) - Udemy
 - [Java Programming Masterclass](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Java-Masterclass-certificate.pdf) - Udemy
 - [Build Responsive Real-World Websites with Html and Css](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Html-and-css-certificate.pdf) - Udemy
- 
-[**Legal advice**](https://annaaxelsson051.github.io/Swedish-Succession-Law-Guide/)
+
+  <h4>Legal advice</h4>
+  
+[Find out about Succession Law](https://annaaxelsson051.github.io/Swedish-Succession-Law-Guide/)
  
  <h4>Enjoys</h4>
 <p>Coding, Neuroscience, Art, Psychology, Humour<p/>
