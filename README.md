@@ -65,7 +65,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
 
 <h4>Legal advice</h4>
   
-[Find out about Succession Law](https://annaaxelsson051.github.io/Swedish-Succession-Law-Guide/)
+[Find out about Swedish Succession Law](https://annaaxelsson051.github.io/Swedish-Succession-Law-Guide/)
  
  <h4>Enjoys</h4>
 <p>Coding, Neuroscience, Art, Psychology, Humour<p/>
