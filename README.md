@@ -67,7 +67,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
   
 [Guide to Swedish Succession Law](https://annaaxelsson051.github.io/Swedish-Succession-Law-Guide/)
 
- <h4 style="color: black;">Enjoys</h4>
+ <b style="font-size: 20px;">Enjoys </b>
 <p>Coding, Neuroscience, Art, Psychology, Humour<p/>
     
     
