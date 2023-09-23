@@ -6,7 +6,7 @@ Lawyer who discovered my passion for software development and switched careers b
 
 ---
 
- <b>Tech Stack and Tools</b> 
+ <h4>Tech Stack and Tools</h4> 
   
   <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg-->
   <p/>
