@@ -58,6 +58,8 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
   
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ 💼 🕹️ -->
 
+---
+
 <h3 style="color: black;">Certifications</h3>
 
 - [Java Datastructures and Algorithms](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Datastructures-and-Algorithms-Certificate.pdf) - Udemy
