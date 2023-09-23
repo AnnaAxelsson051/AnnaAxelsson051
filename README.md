@@ -4,7 +4,7 @@ Lawyer who discovered my passion for software development and switched careers b
 
 [**My Portfolio**](https://annaaxelsson.com/)
 
- <b style="font-size: 20px;">Tech Stack and Tools </b>
+ <b> <p style="font-size: 20px;">Tech Stack and Tools </p></b>
   
   <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg-->
   <p/>
@@ -63,7 +63,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
 - [Java Programming Masterclass](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Java-Masterclass-certificate.pdf) - Udemy
 - [Build Responsive Real-World Websites with Html and Css](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Html-and-css-certificate.pdf) - Udemy
 
- <h4 style="color: black;">Legal advice</h4>
+ <b style="font-size: 20px;">Legal Advice </b>
   
 [Guide to Swedish Succession Law](https://annaaxelsson051.github.io/Swedish-Succession-Law-Guide/)
 
