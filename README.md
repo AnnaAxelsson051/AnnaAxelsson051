@@ -1,10 +1,12 @@
-
+<!--
 
 Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, alongside building multiple side projects.
 
 [**My Portfolio**](https://annaaxelsson.com/)
 
 ---
+
+-->
 
  <h3>Tech Stack and Tools</h3> 
   
@@ -38,6 +40,8 @@ Lawyer who discovered my passion for software development and switched careers b
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
 
 <p/>    
+
+<!--
 
    <b>Backend, Cloud Native Technologies and Architectural Patterns </b> <br>
 SQL | .NET Web API | Spring Boot | Spring Data JPA | REST | Ocelot gateway | Entity Framework | Minimal API | Linq | SQLite | DbGate | Azure data studio | Json | MVC | Microservices | Domain Driven Design | Circuit Breaker Pattern | Cloud Native | Spring Cloud: Gateway, Open Feign, Config Server, Bus, Sleuth, Circuit Breaker
@@ -74,7 +78,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
  <b style="font-size: 20px;">Enjoys </b>
 <p>Coding, Neuroscience, Art, Psychology, Humour<p/>
     
-    
+    -->
 
 
 
