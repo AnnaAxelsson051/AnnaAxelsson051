@@ -60,7 +60,7 @@ Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman |
 Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash
  
   
-  <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ 💼 🕹️ -->
+
 
 ---
 
@@ -80,5 +80,6 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
     
     -->
 
+  <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ 💼 🕹️ -->
 
 
