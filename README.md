@@ -1,8 +1,7 @@
-<!--
-
 Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, alongside building multiple side projects.
 
 [**My Portfolio**](https://annaaxelsson.com/)
+
 
 ---
 
@@ -78,7 +77,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
  <b style="font-size: 20px;">Enjoys </b>
 <p>Coding, Neuroscience, Art, Psychology, Humour<p/>
     
-    -->
+  
 
   <!-- 👋 😊 💜 ✨ 🤓 🌐 📚 💻 ⚙️ 🛠 📄 🎮 🕹️ 💼 🕹️ -->
 
