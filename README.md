@@ -1,4 +1,4 @@
-Lawyer who discovered my passion for software development and switched careers by studying Java developer @ IT-Högskolan and simultaneously .NET Full stack developer @ Chas Academy, alongside building multiple side projects.
+Lawyer who discovered my passion for software development and switched careers by studying to become a Java developer @ IT-Högskolan and simultaneously studying to become a .NET Full stack developer @ Chas Academy, alongside building multiple side projects.
 
 [**My Portfolio**](https://annaaxelsson.com/)
 
