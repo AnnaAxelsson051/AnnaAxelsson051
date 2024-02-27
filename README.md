@@ -56,7 +56,9 @@ Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman |
 <b>Development Tools and Environments </b><br>
 Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash
  
-  
+<b>Salesforce Development </b><br> 
+83500 points on Trailhead | Expeditioner Rank | Apex Superbadge 
+
 
 
 ---
@@ -67,6 +69,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
 - [Mastering SQL](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Mysql-certificate.pdf) - Udemy
 - [Java Programming Masterclass](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Java-Masterclass-certificate.pdf) - Udemy
 - [Build Responsive Real-World Websites with Html and Css](https://github.com/AnnaAxelsson051/Certificates-repo/blob/main/Html-and-css-certificate.pdf) - Udemy
+- [Salesforce Certified Associate](https://www.salesforce.com/trailblazer/annaaxelsson0369) - Salesforce
 
 ---
 
