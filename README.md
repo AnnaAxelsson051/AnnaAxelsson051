@@ -2,6 +2,7 @@
 
 <!--Lawyer who switched careers due to a strong passion for software development. Now a dedicated and ambitious IT student studying to become a Java developer @ IT-Högskolan and simultaneously studying to become a .NET Full stack developer @ Chas Academy - with top grades in 93% of the courses. Active contributor to Github with 3,708 contributions over the past year. My background in law has given me unique skills in problem-solving, risk analysis, and data protection.-->
 
+
 [**My Portfolio**](https://annaaxelsson.com/)
 
 
