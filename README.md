@@ -58,7 +58,7 @@ Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman |
 Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash
  
 <b>Salesforce Development </b><br> 
-83500 points on Trailhead | Expeditioner Rank | Apex Superbadge | Skills: CRM, Heroku, Data Management, Industry, Security, Apex, Visualforce, App Lifecycle, App Logic, Integration, Database & Reporting
+83500 points on Trailhead, Expeditioner Rank | 85 badges + Apex Superbadge | Skills: CRM, Heroku, Data Management, Industry, Security, Apex, Visualforce, App Lifecycle, App Logic, Integration, Database & Reporting
 
 
 
