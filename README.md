@@ -57,8 +57,8 @@ Github Actions | Gradle | Maven | YAML | Azure Service Bus | Swagger | Postman |
 <b>Development Tools and Environments </b><br>
 Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | Bash
  
-<b>Salesforce Development </b><br> 
-83500 points on Trailhead, Expeditioner Rank | 85 badges + Apex Superbadge | Skills: CRM, Heroku, Data Management, Industry, Security, Apex, Visualforce, App Lifecycle, App Logic, Integration, Database & Reporting
+<b>CRM / Salesforce Development </b><br> 
+83500 points on Trailhead, 85 badges + Apex Superbadge | Skills: CRM, Heroku, Data Management, Industry, Security, Apex, Visualforce, App Lifecycle, App Logic, Integration, Database & Reporting
 
 
 
