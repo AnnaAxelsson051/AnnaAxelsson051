@@ -75,7 +75,7 @@ Webstorm | IntelliJ | Visual Studio | VSCode | Spring tool suite | Vim | Git | B
 
 ---
 
- <b style="font-size: 20px;">Legal Advice </b> (Hobby project)
+ <b style="font-size: 20px;">Legal Advice </b> (Front end hobby project)
   
 [Guide to Swedish Succession Law](https://annaaxelsson051.github.io/Swedish-Succession-Law-Guide/)
 
